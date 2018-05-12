@@ -3,7 +3,6 @@ opencv 3.4.1
 python 3.5.3
 numpy 1.4
 if you want support, write an issue at https://github.com/softkorea/EUSBmodeToM/issues
-All rights reserved by Juhee Kim
 """
 import cv2
 from matplotlib import pyplot as plt
